@@ -1,0 +1,2 @@
+C:\Mis documentos\Documents\Unreal Projects\Principal\Intermediate\Build\Win64\UE4Editor\Development\Principal\Definitions.Principal.h
+C:\Mis documentos\Documents\Unreal Projects\Principal\Source\Principal\Principal.h

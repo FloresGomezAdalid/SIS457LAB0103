@@ -1,0 +1,3 @@
+C:\Mis documentos\Documents\Unreal Projects\Principal\Intermediate\Build\Win64\UE4Editor\Development\Principal\Definitions.Principal.h
+C:\Mis documentos\Documents\Unreal Projects\Principal\Source\Principal\SIS457LAB0103.h
+C:\Mis documentos\Documents\Unreal Projects\Principal\Intermediate\Build\Win64\UE4Editor\Inc\Principal\SIS457LAB0103.generated.h

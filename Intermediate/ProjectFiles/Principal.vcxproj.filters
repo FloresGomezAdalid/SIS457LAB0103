@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Principal.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{47FBE570-29CD-4133-95FE-BD6581E98C36}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Principal.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PrincipalEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{037DFC48-CDB9-4CF2-8049-728CB7E4C8E2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Principal">
+      <UniqueIdentifier>{D1AC6105-3B1F-4D75-B0FB-AB64144E218F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Principal\Principal.Build.cs">
+      <Filter>Source\Principal</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Principal\Principal.cpp">
+      <Filter>Source\Principal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Principal\Principal.h">
+      <Filter>Source\Principal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Principal\PrincipalGameModeBase.cpp">
+      <Filter>Source\Principal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Principal\PrincipalGameModeBase.h">
+      <Filter>Source\Principal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Principal\SIS457LAB0103.cpp">
+      <Filter>Source\Principal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Principal\SIS457LAB0103.h">
+      <Filter>Source\Principal</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Principal",
+			"Path": "C:\\Mis documentos\\Documents\\Unreal Projects\\Principal\\Source\\Principal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PrincipalEditor",
+			"Path": "C:\\Mis documentos\\Documents\\Unreal Projects\\Principal\\Source\\PrincipalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
