@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SIS457LAB0103-2937.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Adalid\Documents\Unreal Projects\SIS457LAB0103\Intermediate\Build\Win64\SIS457LAB0103Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Adalid\Documents\Unreal Projects\SIS457LAB0103\Intermediate\Build\Win64\UE4Editor\Development\SIS457LAB0103\SIS457LAB0103.cpp.obj"
+"C:\Users\Adalid\Documents\Unreal Projects\SIS457LAB0103\Intermediate\Build\Win64\UE4Editor\Development\SIS457LAB0103\SIS457LAB0103GameModeBase.cpp.obj"
+"C:\Users\Adalid\Documents\Unreal Projects\SIS457LAB0103\Intermediate\Build\Win64\UE4Editor\Development\SIS457LAB0103\SIS457LAB0103.init.gen.cpp.obj"
+"C:\Users\Adalid\Documents\Unreal Projects\SIS457LAB0103\Intermediate\Build\Win64\UE4Editor\Development\SIS457LAB0103\SIS457LAB0103GameModeBase.gen.cpp.obj"
+"C:\Users\Adalid\Documents\Unreal Projects\SIS457LAB0103\Intermediate\Build\Win64\UE4Editor\Development\SIS457LAB0103\Default.rc2.res"
+/OUT:"C:\Users\Adalid\Documents\Unreal Projects\SIS457LAB0103\Intermediate\Build\Win64\UE4Editor\Development\SIS457LAB0103\UE4Editor-SIS457LAB0103-2937.lib"
